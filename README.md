@@ -8,7 +8,7 @@
 - Skilled nursing facility(SNF)
 - Care Coordination Company
 
-**Audience:**
+**Users:**
 - SNF managers
 - Care Coordinators (CCs) managers
     
