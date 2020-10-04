@@ -26,6 +26,7 @@
 ### Why
 **Business Case Goals:** Establish an easy-to-use dashboard that can display the workload and geographical distribution of each SNF each day, and provide workload rankings. After clicking, the detailed information of the SNF and the position of each CC relative to it can be displayed.
 
+
 **Intended Outcome:** Managers can click to understand the SNF situation and CC availability in a certain area to complete reasonable allocation.
 
 
