@@ -1,6 +1,8 @@
 # SNF workload tracker
 
 [Online deliverable](https://public.tableau.com/profile/zekun.wang#!/vizhome/Case1_16014857164400/Dashboard?publish=yes)
+![screenshot](https://i.postimg.cc/52KHPMkc/image.png)
+
 
 ## Design Checklist
 
